@@ -13,7 +13,7 @@ export default function Navbar({ activeTab, setActiveTab, soundEnabled, setSound
     { id: 'welcome', label: 'START' },
     { id: 'trace', label: 'MEMORY GRID' },
     { id: 'battle', label: 'ALGORITHM ARENA' },
-    { id: 'viva', label: 'EXAM SHEET' },
+    { id: 'viva', label: 'FLOWCHART' },
   ];
 
   return (
